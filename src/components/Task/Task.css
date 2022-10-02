@@ -1,0 +1,25 @@
+.newitem {
+    border:1px solid white;
+    background-color: #99ccff;
+    height:200px;
+    width: 200px;
+    padding: 10px 10px;
+    margin: 50px 30px;
+    border-radius: 12px;
+}
+
+div {
+    flex-direction: row;
+}
+
+.todoItem {
+    font-family: cursive;
+}
+
+.doneBtn {
+    font-family: cursive;
+    width: 1.15em;
+    height: 1.15em;
+    border: 0.15em solid currentColor;
+    border-radius: 50%;
+}
